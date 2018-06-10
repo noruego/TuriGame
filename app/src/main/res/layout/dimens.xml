@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <resources>
+        <!-- Default screen margins, per the Android Design guidelines. -->
+        <dimen android:name="activity_horizontal_margin">16dp</dimen>
+        <dimen android:name="activity_vertical_margin">16dp</dimen>
+        <dimen android:name="fab_margin">16dp</dimen>
+
+        <dimen android:name="margen_superior_lista">8dp</dimen>
+        <dimen android:name="altura_imagen_item">192dp</dimen>
+    </resources>
+</LinearLayout>
